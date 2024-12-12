@@ -1,2 +1,9 @@
 # IBM-HTML-Creating-Simple-Webpage
-Hands-On Lab: HTML - Creating a Simple Web Page Guided by IBM
+
+In this hands-on lab, I demonstrated the following skills:
+
+- Creating HTML file.
+- Implementing fundamental text tags.
+- Implementing image tag.
+- Implementing list tags.
+- Implementing table tags.
