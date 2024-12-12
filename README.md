@@ -1,9 +1,16 @@
 # IBM-HTML-Creating-Simple-Webpage
 
-In this hands-on lab, I demonstrated the following skills:
+In this lab, I created a web page with details of Mr. Watson.
 
-- Creating HTML file.
-- Implementing fundamental text tags.
-- Implementing image tag.
-- Implementing list tags.
-- Implementing table tags.
+### Skills Demonstrated:
+
+- Creating a new HTML document.
+- Specifying the DOCTYPE.
+- Adding the head and body elements.
+- Adding a title.
+- Adding a heading.
+- Addinh a paragraph.
+- Addinh an image.
+- Creating a list of items.
+- Adding a table of data.
+- Adding links to other pages.
